@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kmo",
+  "name": "Kether",
+  "description": "It's more than dimension.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kczyku"],
+  "credits": "Not yet.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
